@@ -34,3 +34,8 @@ O objetivo deste desafio é criar um formulário simples para enviar **novos pos
 ---
 
 > Este desafio usa a API gratuita `https://jsonplaceholder.typicode.com`, que simula posts e respostas sem salvar de verdade.
+## Contexto do exemplo
+
+A página envia um post de demonstração à API JSONPlaceholder e mostra a resposta na lista. A API simula a criação; os dados não ficam persistidos.
+
+Mais sobre Luis César: [Portfólio](https://luiscesardev.com.br) · [LinkedIn](https://www.linkedin.com/in/luis-cesar/)
